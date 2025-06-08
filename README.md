@@ -53,5 +53,5 @@ This task demonstrates how Python can be used not only for data analysis but als
 ### OUTPUT
 report.pdf
 
-
+![Image](https://github.com/user-attachments/assets/55966dcc-8c62-41a9-8a13-5619009ebff6)
 
